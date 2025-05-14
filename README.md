@@ -28,6 +28,7 @@ git clone https://github.com/kullanici-adi/hayvan-siniflandirici.git
 cd hayvan-siniflandirici
 pip install -r requirements.txt
 
+Proje Çalıştırma
 streamlit run app.py
 
 
