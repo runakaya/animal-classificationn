@@ -31,4 +31,8 @@ pip install -r requirements.txt
 Proje Çalıştırma
 streamlit run app.py
 
+Kurulum Komutu
+pip install -r requirements.txt
+
+
 
