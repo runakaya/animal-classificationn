@@ -1,13 +1,13 @@
-# animal-classificationn
+animal-classification
 Animal Classification With PyCharm
 
 hayvan-siniflandirici/
 ├── app.py
 ├── utils.py
-├── backgorund.jpg       # Arka plan görseli
+├── backgorund.jpg      
 ├── README.md
 ├── requirements.txt
-└── .gitignore           # (Opsiyonel ama önerilir)
+└── .gitignore          
 
 
 Hayvan Sınıflandırıcı
